@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kosmici mnie uprowadzili - zgłoszenie porwania</title>
+</head>
+<body>
+    <h2>Kosmici mnie uprowadzili - zgłoszenie porwania</h2>
+</body>
+</html>
